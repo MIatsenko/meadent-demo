@@ -1,0 +1,10 @@
+eval=return JSON.stringify({w:innerWidth,sw:document.documentElement.scrollWidth,hero:Math.round(document.querySelector('.hero').getBoundingClientRect().bottom),ih:innerHeight,imgs:Array.from(document.images).filter(i=>i.naturalWidth>0).length,all:document.images.length,cards:document.querySelectorAll('.grid-services .card').length})
+shot=hero
+scrollto=#kontakt
+shot=kontakt
+scrollto=#zakazivanje
+fill=input[name='name']=Test Testic
+fill=input[name='phone']=064 914 81 82
+tap=form.book button
+eval=return 'ok=' + (document.querySelector('.book-ok').getBoundingClientRect().height>0)
+shot=book-ok

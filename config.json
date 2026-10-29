@@ -17,7 +17,7 @@
   "facts": [
     ["4,9", "Google ocena · 147 recenzija"],
     ["12", "oblasti stomatologije"],
-    ["6", "stomatologa u timu"],
+    ["10", "stomatologa u timu"],
     ["08–20", "radno vreme, pon–pet"]
   ],
   "form": true,
@@ -41,7 +41,7 @@
     {"title": "Kompozitne plombe i lečenje kanala", "text": "Nano-hibridni kompoziti u boji zuba i mašinsko lečenje kanala korena endomotorom."},
     {"title": "Lečenje parodontopatije", "text": "Kauzalna terapija i ultrazvučno uklanjanje kamenca; specijalista parodontologije je u timu."}
   ],
-  "team_lead": "Pet stalnih i dva gostujuća stomatologa, specijalista parodontologije, sestre i administracija — svi u ordinaciji u Bloku 45.",
+  "team_lead": "Meadent tim čine pet stalnih, dva gostujuća stomatologa i tri stomatologa konsultanta — sestre i administracija su u ordinaciji u Bloku 45.",
   "team": [
     {"img": "assets/img/milan-knezevic.jpg", "name": "Dr Milan Knežević", "role": "Doktor stomatologije"},
     {"img": "assets/img/milos-potic.jpg", "name": "Dr Miloš Potić", "role": "Doktor stomatologije"},
